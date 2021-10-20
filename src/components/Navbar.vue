@@ -47,7 +47,7 @@
       <div class="navbar-item">
         <div class="field is-grouped">
           <p class="control">
-            <a style="color: #042454" class="bd-tw-button button" data-social-network="Twitter" data-social-action="tweet" data-social-target="https://bulma.io" target="_blank" href="https://twitter.com/intent/tweet?text=Bulma: a modern CSS framework based on Flexbox&amp;hashtags=bulmaio&amp;url=https://bulma.io&amp;via=jgthms">
+            <a style="color: #042454" class="bd-tw-button button" data-social-network="Twitter" data-social-action="tweet" data-social-target="https://bulma.io" target="_blank" href="https://www.facebook.com/Webinium-103348078810128/">
               <span class="icon">
                 <i class="fab fa-facebook"></i>
               </span>
@@ -57,7 +57,7 @@
             </a>
           </p>
           <p class="control">
-            <a style="background: #042454;" class="button is-primary" href="https://github.com/jgthms/bulma/releases/download/0.9.3/bulma-0.9.3.zip">
+            <a style="background: #042454;" class="button is-primary" href="https://www.instagram.com/webinium352/" target="__blank">
               <span class="icon">
                 <i class="fab fa-instagram"></i>
               </span>
