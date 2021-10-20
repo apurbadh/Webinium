@@ -18,36 +18,27 @@
 
   <div id="navbarExampleTransparentExample" class="navbar-menu">
     <div class="navbar-start">
-      <a class="navbar-item" href="https://bulma.io/">
+      <router-link class="navbar-item" to="https://bulma.io/">
         Home
-      </a>
+      </router-link>
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="https://bulma.io/documentation/overview/start/">
-          Docs
+        <a class="navbar-link" to="https://bulma.io/documentation/overview/start/">
+          Pages
         </a>
         <div class="navbar-dropdown is-boxed">
-          <a class="navbar-item" href="https://bulma.io/documentation/overview/start/">
-            Overview
-          </a>
-          <a class="navbar-item" href="https://bulma.io/documentation/overview/modifiers/">
-            Modifiers
-          </a>
-          <a class="navbar-item" href="https://bulma.io/documentation/columns/basics/">
-            Columns
-          </a>
-          <a class="navbar-item" href="https://bulma.io/documentation/layout/container/">
-            Layout
-          </a>
-          <a class="navbar-item" href="https://bulma.io/documentation/form/general/">
-            Form
-          </a>
+          <router-link class="navbar-item" to="/team">
+            Team
+          </router-link>
+          <router-link class="navbar-item" to="/about">
+            About
+          </router-link>
+          <router-link class="navbar-item" to="/contact">
+            Contact
+          </router-link>
           <hr class="navbar-divider">
-          <a class="navbar-item" href="https://bulma.io/documentation/elements/box/">
-            Elements
-          </a>
-          <a class="navbar-item is-active" href="https://bulma.io/documentation/components/breadcrumb/">
-            Components
-          </a>
+          <router-link class="navbar-item is-active" to="/order">
+            Order
+          </router-link>
         </div>
       </div>
     </div>
