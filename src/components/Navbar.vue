@@ -4,7 +4,7 @@
 	}
 </script>
 <template>
-<nav class="navbar is-white">
+<nav class="navbar is-white" style="padding: 10px">
   <div class="navbar-brand">
     <router-link class="navbar-item" to="/">
       <h1 style="color: #042454; font-size: 20px"><b>Webinium</b></h1>
