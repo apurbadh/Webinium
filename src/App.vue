@@ -4,7 +4,6 @@
 
 <template>
   <Navbar/>
-  <h1>Webinium</h1>  
   <router-view></router-view>
 </template>
 
