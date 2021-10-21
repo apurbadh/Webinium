@@ -2,12 +2,15 @@
   import Navbar from "./components/Navbar.vue"
   import Upper from './components/Upper/Upper.vue'
   import First from './components/MIddle/First/First.vue'
+  import Second from './components/MIddle/Second/Second.vue'
 </script>
 
 <template>
   <Navbar/>
+  <br>
   <Upper/>
-  <First/> 
+  <First/>
+  <Second/>
   <router-view></router-view>
 </template>
 

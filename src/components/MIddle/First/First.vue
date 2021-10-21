@@ -7,7 +7,7 @@ export default {
 <section class='first-section-container'>
 
     <div class="first-image-container">
-            <img class="team-image" src="teamimage.png" alt="Team">
+            <img class="team-image" src="devimg.png" alt="Team">
     </div>
 
     <div class="first-information-container">

@@ -1,0 +1,30 @@
+.second-section{
+    /* padding:20em; */
+    background-color:#042454;
+    margin-top: 5em;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.second-header{
+    font-family: 'Lato';
+    font-size:5em;
+    color:#FFF;
+    background-image: linear-gradient(90deg, red blue);
+    background-size: 100% 3px;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    transition: background-size 300ms ease;
+}
+
+.header-container
+{
+    margin-top:1em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom:20em;
+
+}
